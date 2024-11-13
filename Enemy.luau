@@ -17,7 +17,7 @@ type Enemy = {
 return {
 	{
 		name = "Boar",
-		health = 40,
+		health = 40_000,
 		damage = 5,
 		walkspeed = 13,
 		xp = 1,
