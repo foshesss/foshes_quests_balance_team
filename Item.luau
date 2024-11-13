@@ -124,7 +124,7 @@ return {
 		level = 5,
 
 		stats = {
-			health = 25,
+			health = 30,
 			speed = 1
 		},
 
