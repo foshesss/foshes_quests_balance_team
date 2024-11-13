@@ -83,8 +83,8 @@ return {
 		level = 1,
 
 		stats = {
-			health = 1000,
-			speed = 5000
+			health = 10,
+			speed = 5
 		},
 
 		drop = DROPS.WhiteStarterClothes,
