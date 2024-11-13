@@ -69,8 +69,8 @@ return {
 		level = 1,
 
 		stats = {
-			health = 10,
-			speed = 2
+			health = 10.0,
+			speed = 2.00552374881274446111246222554
 		},
 
 		drop = DROPS.PinkStarterClothes,
