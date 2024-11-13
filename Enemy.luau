@@ -75,7 +75,7 @@ return {
 		health = 600,
 		damage = 50,
 		walkspeed = 20,
-		xp = 10,
+		xp = 15,
 
 		cash_earned = {75, 125},
 
@@ -95,7 +95,7 @@ return {
 		health = 20,
 		damage = 60,
 		walkspeed = 30,
-		xp = 1,
+		xp = 3,
 
 		cash_earned = {10, 20},
 
@@ -122,7 +122,7 @@ return {
 		health = 150,
 		damage = 20,
 		walkspeed = 6,
-		xp = 3,
+		xp = 5,
 
 		cash_earned = {100, 150},
 
@@ -148,7 +148,7 @@ return {
 		health = 1000,
 		damage = 75,
 		walkspeed = 20,
-		xp = 20,
+		xp = 30,
 
 		cash_earned = {200, 250},
 		
