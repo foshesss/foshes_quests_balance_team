@@ -4,8 +4,7 @@ Create a PR to help balance the game!
 Link to game: https://www.roblox.com/games/110827419479418/BOSS-Foshes-Quest
 
 ## Rules for PRs
-1. DO NOT CREATE PRS FOR 'main'. ONLY ADD PRS TO THE '[next-update](https://github.com/foshesss/foshes_quests_balance_team/tree/next-update)' BRANCH.
-2. Add a diff including all changes you made:
+1. Add a diff including all changes you made:
 ```diff
 + Wolf Armor Health Regen increasesd fropm 5% to 10%
 - Wolf Armor Speed decreased from 3 to 2

@@ -92,10 +92,10 @@ return {
 	},
 	{
 		name = "Bluesteel Mite",
-		health = 40,
-		damage = 25,
+		health = 20,
+		damage = 60,
 		walkspeed = 30,
-		xp = 2,
+		xp = 1,
 
 		cash_earned = {10, 20},
 
@@ -120,7 +120,7 @@ return {
 	{
 		name = "Bluesteel Golem",
 		health = 150,
-		damage = 40,
+		damage = 20,
 		walkspeed = 6,
 		xp = 3,
 
