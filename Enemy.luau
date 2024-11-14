@@ -75,7 +75,7 @@ return {
 		health = 600,
 		damage = 50,
 		walkspeed = 20,
-		xp = 10,
+		xp = 15,
 
 		cash_earned = {75, 125},
 
@@ -95,7 +95,7 @@ return {
 		health = 20,
 		damage = 60,
 		walkspeed = 30,
-		xp = 1,
+		xp = 2,
 
 		cash_earned = {10, 20},
 
@@ -120,9 +120,9 @@ return {
 	{
 		name = "Bluesteel Golem",
 		health = 150,
-		damage = 20,
+		damage = 30,
 		walkspeed = 6,
-		xp = 3,
+		xp = 4,
 
 		cash_earned = {100, 150},
 
@@ -147,10 +147,10 @@ return {
 		name = "King Adelaid",
 		health = 1000,
 		damage = 75,
-		walkspeed = 20,
-		xp = 20,
+		walkspeed = 18,
+		xp = 25,
 
-		cash_earned = {200, 250},
+		cash_earned = {425, 525},
 		
 		floor_unlock = 3,
 		model = script.Adelaid,
